@@ -1,6 +1,6 @@
 <!-- Profile README for Rukshan Rodrig (Tech Lasiya) -->
 
-<h1 align="center">Hi there, I'm Rukshan Rodrig 👋</h1>
+<h1 align="center">Hi there, I'm Rukshan Rodrigo 👋</h1>
 <h3 align="center">Digital Marketing Executive | Tech Creator | 🇱🇰 Sri Lanka</h3>
 
 ---
